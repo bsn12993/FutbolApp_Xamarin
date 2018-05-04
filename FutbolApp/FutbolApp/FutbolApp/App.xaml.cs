@@ -20,7 +20,7 @@ namespace FutbolApp
             BaseDatos.Conectar();
 			InitializeComponent();
 
-			MainPage = new FutbolApp.MainPage();
+            MainPage = new NavigationPage(new Paginas.PaginaMenu());
 		}
 
 		protected override void OnStart ()

@@ -16,5 +16,16 @@ namespace FutbolApp.Paginas
 		{
 			InitializeComponent ();
 		}
-	}
+
+        public async void Jugadores_Clicked(object sender,EventArgs e)
+        {
+            await Navigation.PushAsync(new PaginaListaJugadores());
+        }
+
+        public async void Equipos_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new PaginaListaEquipos());
+        }
+
+    }
 }
