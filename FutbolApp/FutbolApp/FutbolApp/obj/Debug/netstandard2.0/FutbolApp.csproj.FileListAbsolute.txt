@@ -1,0 +1,11 @@
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\bin\Debug\netstandard2.0\FutbolApp.deps.json
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\bin\Debug\netstandard2.0\FutbolApp.dll
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\obj\Debug\netstandard2.0\FutbolApp.csproj.CoreCompileInputs.cache
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\obj\Debug\netstandard2.0\FutbolApp.App.xaml.g.cs
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\obj\Debug\netstandard2.0\FutbolApp.MainPage.xaml.g.cs
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\obj\Debug\netstandard2.0\FutbolApp.AssemblyInfoInputs.cache
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\obj\Debug\netstandard2.0\FutbolApp.AssemblyInfo.cs
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\bin\Debug\netstandard2.0\FutbolApp.pdb
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\obj\Debug\netstandard2.0\FutbolApp.dll
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\obj\Debug\netstandard2.0\FutbolApp.pdb
+C:\Repositorio Git\FutbolApp\FutbolApp\FutbolApp\FutbolApp\obj\Debug\netstandard2.0\FutbolApp.csprojResolveAssemblyReference.cache
